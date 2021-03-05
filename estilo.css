@@ -1,0 +1,27 @@
+body{
+    background: rgb(80, 123, 187);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 10px; /*arredondando a borda */
+    padding: 15px; /* tamanho da caixa */
+    width: 500px;
+    margin: auto; /*para centralizar */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733); /* Sombra --> 1º deslocamento lateral, 2º deslocamento vertical, 3º espalhamento 4º cor*/ 
+}
+
+div{
+    text-align: center;
+    padding: 10px; /* preenchimento */
+    }
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
